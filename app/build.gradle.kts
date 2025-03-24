@@ -72,7 +72,7 @@ dependencies {
     implementation(libs.retrofit)
     implementation(libs.retrofit.converter.gson)
     implementation(libs.gson)
-    implementation("androidx.compose.compiler:compiler:1.5.12")
+   // implementation("androidx.compose.compiler:compiler:1.5.12")
 
     // Coroutines
     implementation(libs.coroutines.core)
